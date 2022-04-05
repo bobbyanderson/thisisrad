@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="37px" viewBox="0 0 112 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website-v02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-112.000000, -120.000000)">
+            <g id="Header" transform="translate(112.000000, 120.000000)">
+                <g id="Logo">
+                    <path d="M93.5,37 C103.701429,37 112,28.7132668 112,18.5263909 C112,8.33951498 103.701429,0 93.5,0 L75,0 C75,37.7917261 75,-0.791726106 75,37 L93.5,37 Z" id="D" fill="#FF0057"></path>
+                    <path d="M32,37 L75,37 L53.5,0 L32,37 Z" id="A" fill="#F7AC05"></path>
+                    <path d="M17.8550725,0 L0,0 C0,28.5549215 0,-3.95863053 0,37 L32.6811594,37 L27.2077295,26.8131241 C30.7681159,24.0684736 33,19.8459344 33,15.042796 C33,6.70328103 26.1980676,0 17.8550725,0 L17.8550725,0 Z" id="R" fill="#2A2CAC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

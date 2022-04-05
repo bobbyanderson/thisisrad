@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>mobile-applications-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Website-v02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-528.000000, -3345.000000)">
+            <g id="Expertise" transform="translate(112.000000, 2959.000000)">
+                <g id="Mobile-app-design" transform="translate(416.000000, 386.000000)">
+                    <g id="mobile-applications-icon">
+                        <path d="M7,4 L40,4 C42.209139,4 44,5.790861 44,8 L44,60 C44,62.209139 42.209139,64 40,64 L8,64 C5.790861,64 4,62.209139 4,60 L4,7 C4,5.34314575 5.34314575,4 7,4 Z" id="Rectangle" fill="#FF0057"></path>
+                        <path d="M35,30 L66,30 C68.7614237,30 71,32.2385763 71,35 L71,86 C71,88.209139 69.209139,90 67,90 L34,90 C32.3431458,90 31,88.6568542 31,87 L31,34 C31,31.790861 32.790861,30 35,30 Z" id="Rectangle" fill="#F7AC05" transform="translate(51.000000, 60.000000) rotate(90.000000) translate(-51.000000, -60.000000) "></path>
+                        <rect id="Rectangle" stroke="#282C31" stroke-width="2" x="1" y="1" width="38" height="58" rx="5"></rect>
+                        <rect id="Rectangle" stroke="#282C31" stroke-width="2" transform="translate(47.000000, 56.000000) rotate(90.000000) translate(-47.000000, -56.000000) " x="28" y="27" width="38" height="58" rx="6"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

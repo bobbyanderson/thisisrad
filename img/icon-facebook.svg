@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="24px" viewBox="0 0 13 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements/Footer/Desktop" transform="translate(-1094.000000, -190.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Footer">
+                <g id="Group" transform="translate(1048.000000, 134.000000)">
+                    <path d="M54.3571429,80 L54.3571429,69.3333333 L58.0714286,69.3333333 L59,64.8888889 L54.3571429,64.8888889 L54.3571429,63.1111111 C54.3571429,61.3333333 55.2875714,60.4444444 57.1428571,60.4444444 L59,60.4444444 L59,56 C58.0714286,56 56.92,56 55.2857143,56 C51.8732143,56 49.7142857,58.5608889 49.7142857,62.2222222 L49.7142857,64.8888889 L46,64.8888889 L46,69.3333333 L49.7142857,69.3333333 L49.7142857,80 L54.3571429,80 Z" id="icon-facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

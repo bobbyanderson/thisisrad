@@ -1,0 +1,346 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <title>RBS Online Applications | UX Design | This is RAD</title>
+      
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
+    <meta name="description" content="Collaborating with UX writers and researchers to discover and eliminate pain points of an online credit card application"/>
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+    <link rel="canonical" href="https://www.thisisrad.co/" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="RBS Online Applications | UX Design | This is RAD" />
+    <meta property="og:description" content="Collaborating with UX writers and researchers to discover and eliminate pain points of an online credit card application" />
+    <meta property="og:url" content="https://www.thisisrad.co/" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="Collaborating with UX writers and researchers to discover and eliminate pain points of an online credit card application" />
+    <meta name="twitter:title" content="RBS Online Applications | UX Design | This is RAD" />
+    <meta name="twitter:site" content="@_thisisrad_" />
+    <meta name="twitter:creator" content="@8obbyanderson" />
+    <meta name="yandex-verification" content="c0e64de10970f24e" />
+      
+    <link rel="stylesheet" href="../../../css/foundation.css">
+    <link rel="stylesheet" href="../../../css/app.css">
+    <link rel="stylesheet" href="../../../css/inter.css">
+    <link rel="stylesheet" href="/css/animsition.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+      
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1799672,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+  </head>
+  <body class="rbs case-study">
+      <div class="animsition-overlay" data-animsition-overlay="true"></div>
+    
+    <progress id="progressbar" value="0" max="100"></progress>
+      
+      <div id="landscape" class="center">
+          <h3>Please rotate your device</h3>
+    </div>
+
+    <nav>
+        <div class="grid-container">
+            <div class="grid-x">
+                <div class="medium-3 small-6">
+                    <a class="animsition-link" href="/" title="This is RAD"><img src="/img/logo-rad.svg" alt="This is RAD" /></a>
+                </div>
+                <div class="medium-9 small-6">
+                    <div class="show-for-small-only">
+                        <div class="menu">
+                          <a href="#" class="menu-link"></a>
+                        </div>
+                    </div>
+                    <ul class="nav float-right hide-for-small-only">
+                        <li><a class="animsition-link" href="/" title="Homepage">Home</a></li>
+                        <li><a class="animsition-link" href="/about" title="About RAD">About</a></li>
+                        <li><a class="animsition-link" href="/work" title="Our Work">Our work</a></li>
+                        <li><a class="animsition-link" href="/contact" title="Contact us">Contact</a></li>
+                    </ul>
+                </div>
+            </div>  
+        </div> 
+    </nav>
+      
+    <section class="content">
+        <div class="grid-container hero full" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="small-12">
+                    <img src="../../../img/case-study-rbs.jpg" srcset="../../../img/case-study-rbs.jpg 1x, ../../../img/case-study-rbs@2x.jpg 2x" alt="RBS Case Study" >
+                </div>
+            </div>
+        </div>
+        
+        <!-- Title -->
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h1>NatWest &amp; RBS</h1>
+                    <h2>Creating application forms with empathy</h2>
+                </div>
+            </div>
+        </div>
+        
+        <!-- TLDR -->
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <div class="tldr">
+                        <h3>TLDR</h3>
+                        <p class="strong">Putting users first increased business</p>
+                        <ul class="contents">
+                            <li><a href="#Problem">Understanding the problem</a></li>
+                            <li><a href="#Role">Our role</a></li>
+                            <li><a href="#Design">Design</a></li>
+                            <li><a href="#Modular">A Modular Journey</a></li>
+                            <li><a href="#Implementation">Implementation</a></li>
+                            <li><a href="#Iteration">Iteration</a></li>
+                            <li><a href="#Lessons">Lessons learned</a></li>
+                            <li><a href="#Conclusion">Conclusion</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Problem -->
+        <a id="Problem"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Understanding the Problem</h3>
+                    <p>RBS were looking to move away from legacy systems, introducing a faster and safer way to apply for a credit card online. The bank had teams working on similar journeys for current account and loan applications. These teams worked together as part of a wider collective to ensure that any cross over was consistent and the design stayed true to the design system that was in place. This was to allow for a component build approach and keep the development teams from re-working similar problems.</p>
+                     <p>The stakeholders had analytical data for the old journey and we used this as our basis to test why drop out rates were the way they were. We ran sessions on these journeys, inviting users in to test them on mobile, tablet and desktop devices and from these sessions we understood that the problem wasn't what the stakeholders had assumed they were from the analytics. Upon presenting our findings we had to try and introduce a user centric mindset to the stakeholders and change their way of thinking as everything was approached from a business and numbers perspective without understanding the thought processes a user went through while applying. </p>
+                     <p>From the research sessions we understood what tripped users up, how the language was confusing, the reasons why they'd apply for one of these products and what other factors impacted the user whilst applying. What was very interesting was that while users knew what a credit check was, they didn't know at what point of the journey a credit check would be performed or the impact it would have on their record. </p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Hero -->        
+        <div class="grid-container full" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-12- medium-12 small-12">
+                    <img src="../../../img/case-study-rbs-rwd.jpg" srcset="../../../img/case-study-rbs-rwd.jpg 1x, ../../../img/case-study-rbs-rwd@2x.jpg 2x" alt="Responsive web design" >
+                </div>
+            </div>
+        </div>
+        
+        <!-- My role -->
+        <a id="Role"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Our role</h3>
+                    <p>On this project I was the lead UX Designer on the credit card applications journeys. I worked alongside a UX writer and a service designer whilst collaborating with journey managers and other stakeholders.</p> 
+                    <p>The services that I performed were to work with the stakeholders to understand both what they thought the problems were and what other issues the current journey had. I worked with the technical team to understand the systems involved in the application process and how the application forms interacted with the back end. This work allowed me to produce user journey maps and create prototypes for testing. I lead research efforts and collaborated with a UX researcher to run testing sessions with users on old and new journeys across different platforms. </p>
+                    <p>During build I would work with the developers to ensure that the UI was pixel perfect and perform responsive design testing across several devices. </p>
+                </div>
+            </div>
+        </div>
+                
+        <!-- Design -->
+        <a id="Design"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Design</h3>
+                    <p>The bank had a design system in place with a Sketch component library produced to ensure consistency across the online applications. This meant that the visual assets such as text field inputs, select drop downs, radio buttons etc with different interaction states were available to us and the rules in terms of layouts, grid systems and responsive variations were in place for consistency.</p>
+                    <p>This allowed us to iterate the pages and sections in a more efficient manner, keeping the stakeholders updated with progress and giving them access to click through prototypes for their impressions and feedback. </p>
+                    <p>Part of the remit of being in the team was to always look for ways to improve the system and the component library based on the findings of the research.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Modular -->
+        <a id="Modular"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>A Modular Journey</h3>
+                    <p>The old journey forced users through a path to set up options that they may not need and from the testing we could see that this was a pain point for people. </p>
+                    <p>What I proposed was introducing an opt-in modular journey. This meant taking the Direct Debit set up, the Balance Transfer and Add a Card Holder sections and giving the user the option of setting up the features they wanted during the application process. This was well received when tested later.</p>
+                </div>
+                <div class="small-12" data-aos="fade-up">
+                    <img src="../../../img/case-study-rbs-options.jpg" srcset="../../../img/case-study-rbs-options.jpg 1x, ../../../img/case-study-rbs-options@2x.jpg 2x" alt="RBS Options Page" >
+                </div>
+            </div>
+        </div>
+        
+        <!-- Implementation -->
+        <a id="Implementation"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Implementation</h3>
+                    <p>We worked in an agile environment, scoping and sizing what pages and sections could take more time and effort based on the research and discovery work that had taken place. To allow us to iterate on what mattered most, we focused on the areas of the journey that were exclusive to the credit card applications and have the generic pages tied in to the journey later in the project. </p>
+                    <p>Visuals for the journey were shared using Zeplin and I provided annotated mobile, tablet and desktop based screens with an accompanying InVision prototype for reference. </p>
+                </div>
+            </div>
+        </div>
+                
+        <!-- Iteration -->
+        <a id="Iteration"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Iteration</h3>
+                    <p>Whilst our focus was on the credit card focused application pages, we were still keen to test the end to end journey and how the generic application pages worked for the customer base. During testing sessions I witnessed that some of the design patterns that had been designed and implemented previously were becoming a pain point for users. </p>
+                    <p>One particular component that we saw as a regular pain point was entering a middle name. From what we witnessed, users that were keyboard based would regularly tab into the middle name field and enter their surname. Some caught what they were doing, others had to go back from the last name field to the middle name field and amend.</p>
+                </div>
+                <div class="small-12" data-aos="fade-up">
+                    <img src="../../../img/case-study-rbs-middlename.jpg" srcset="../../../img/case-study-rbs-middlename.jpg 1x, ../../../img/case-study-rbs-middlename@2x.jpg 2x" alt="RBS Middle name UI update" >
+                </div>
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <p>We implemented a very simple piece of UI to solve this, by having users opt in to having a middle name, we could progressively display the text field to avoid needless tabbing back and forth.</p>
+                    <p>What was great about iterating this component was that it wasn't exclusive to the credit card journey and would feed in to the current account and loan applications too.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- What we do -->    
+        <div class="grid-container yellow" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-8 medium-offset-2 small-12">
+                    <h3>We can help you to do more with digital</h3>
+                    <p>Your targets are our targets. We approach every project with empathy, creative thinking and a focus on user experience.</p>
+                    <ul class="buttons">
+                        <li><a class="animsition-link" href="/about" title="About Us">Find out more</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div> 
+        
+        <!-- Lessons Learned -->
+        <a id="Lessons"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Lessons learned</h3>
+                    <p>Whilst trying to cut down on development time and ensure consistency, it became apparent very quickly that there is no one size fits all approach when users are applying for different kinds of financial products. With the credit card application especially, there needs to be a high degree of empathy when considering why people require credit. These types of products are completely different from savings accounts, current accounts and loans and so is the mindset of the people applying.</p>
+                    <p>Analytical data only tells so much of the story but unfortunately it is a very dehumanised story and doesn't put people first. While the numbers may be in black and white, it is very easy to skew this information in a manner to suit an agenda and it was a good lesson to learn for future projects.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Conclusion -->
+        <a id="Conclusion"></a> 
+        <div class="grid-container" data-aos="fade-up">
+            <div class="grid-x grid-padding-x">
+                <div class="large-8 large-offset-2 medium-10 medium-offset-1 small-12">
+                    <h3>Conclusion</h3>
+                    <p>The credit card application was a long and at times, difficult, project. The team that worked on this stuck to our guns and introduced design thinking into other areas of the bank that were used to working in different ways.</p>
+                    <p>We challenged assumptions and made decisions to make the product better for people and I was delighted to learn that the changes we made contributed to a 12% uplift in applications and a 10% rise in approvals.</p>
+                    <p><a href="/contact" title="Contact us">Get in touch</a> to see if we can apply some creative thinking to your product line.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+    <footer>
+        <div class="grid-container">
+            <div class="grid-x">
+                <div class="large-6 large-offset-3 medium-6 medium-offset-3 small-12">
+                    <p class="statement">We could do great things, together</p>
+                    <p>Let's take the first step to building something wonderful.</p>
+                    <ul class="buttons">
+                        <li><a class="animsition-link" href="/contact/index.html" title="Contact Us">Start your project</a></li>
+                    </ul>
+                    <ul class="social">
+                        <li><a href="https://www.linkedin.com/company/robert-anderson-design-ltd/" target="_blank" title="Connect with RAD on LinkedIn"><img src="../../../img/icon-linkedin.svg" alt="Connect on LinkedIn" /></a></li>
+                        <li><a href="https://twitter.com/_thisisrad_" target="_blank" title="Follow RAD on Twitter"><img src="../../../img/icon-twitter.svg" alt="Follow on Twitter" /></a></li>
+                        <li><a href="https://www.facebook.com/robertandersondesign" target="_blank" title="Like RAD on Facebook"><img src="../../../img/icon-facebook.svg" alt="Like on Facebook" /></a></li>
+                        <li><a href="https://www.instagram.com/thisisrad_/" target="_blank" title="Follow RAD on Instagram"><img src="../../../img/icon-insta.svg" alt="Follow on Instagram" /></a></li>
+                    </ul>
+                    <p class="small">2020 &copy; Robert Anderson Design Ltd</p>
+                    <p class="small"><a href="#top" id="goTop">Back to the top</a></p>
+                </div>
+            </div>
+        </div>  
+    </footer>
+      
+    <!-- Menu -->
+    <div class="menu-overlay show-for-small-only">
+        <div class="grid-container">
+            <div class="small-12">
+                <ul class="show-for-small-only">
+                    <li><a class="animsition-link" href="/" title="Homepage">Home</a></li>
+                    <li><a class="animsition-link" href="/about" title="About RAD">About</a></li>
+                    <li><a class="animsition-link" href="/work" title="Our Work">Our work</a></li>
+                    <li><a class="animsition-link" href="/contact" title="Contact us">Contact</a></li>
+                </ul>
+                <ul class="contact">
+                    <li class="title">Call us</li>
+                    <li><tel>07702 478 940</tel></li>
+                    <li class="title">Email us</li>
+                    <li><a href="mailto:hello@thisisrad.co?subject=Lets&nbsp;do&nbsp;great&nbsp;things&nbsp;together" title="Email RAD">hello@thisisrad.co</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+      
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="../../../js/vendor/what-input.js"></script>
+    <script src="../../../js/vendor/foundation.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="../../../js/app.js"></script>
+    <script src="/js/animsition.min.js"></script>
+    <script>
+        $(function() {
+          $(".menu-link").click(function(e) {
+            e.preventDefault();
+          $(".menu-overlay").toggleClass("open");
+          $(".menu").toggleClass("open");
+          $("body").toggleClass("open");
+          });
+        });
+    </script>
+    <script>
+        $(document).ready(function() {
+          $(".animsition-overlay").animsition({
+            inClass: 'overlay-slide-in-bottom',
+            outClass: 'overlay-slide-out-bottom',
+            inDuration: 1500,
+            outDuration: 800,
+            linkElement: '.animsition-link',
+            // e.g. linkElement: 'a:not([target="_blank"]):not([href^="#"])'
+            loading: true,
+            loadingParentElement: 'body', //animsition wrapper element
+            loadingClass: 'animsition-loading',
+            loadingInner: '<img src="loading-white.svg" />', // e.g '<img src="loading.svg" />'
+            timeout: false,
+            timeoutCountdown: 5000,
+            onLoadEvent: true,
+            browser: [ 'animation-duration', '-webkit-animation-duration'],
+            // "browser" option allows you to disable the "animsition" in case the css property in the array is not supported by your browser.
+            // The default setting is to disable the "animsition" in a browser that does not support "animation-duration".
+            overlay : true,
+            overlayClass : 'animsition-overlay-slide',
+            overlayParentElement : 'body',
+            transition: function(url){ window.location.href = url; }
+          });
+        });
+    </script>
+    <script>
+        AOS.init();
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69717532-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-69717532-3');
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon-research</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-research" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="research-icon" transform="translate(35.000000, -40.000000)">
+            <polygon id="Rectangle" fill="#2A2CAC" points="18 163.053824 122 207.053824 122 335.053824 18 291.053824"></polygon>
+            <polygon id="Rectangle" fill="#FF0057" transform="translate(198.000000, 249.053824) scale(-1, 1) translate(-198.000000, -249.053824) " points="146 163.053824 250 207.053824 250 335.053824 146 291.053824"></polygon>
+            <polygon id="Rectangle" fill="#F7AC05" transform="translate(134.000000, 138.024387) rotate(45.000000) translate(-134.000000, -138.024387) " points="100.786797 104.811183 216.024387 56 168.669048 172.693434 51.9756134 220.048773"></polygon>
+            <path d="M85.1035796,87.251083 C85.5087444,86.2945354 86.2701488,85.533131 87.2266964,85.1279662 L202.464286,36.316783 C205.747042,34.9263064 209.071394,38.2006588 207.730822,41.5041076 L160.375483,158.197542 C159.969064,159.199043 159.174656,159.99345 158.173155,160.399869 L41.479721,207.755208 C38.1762721,209.09578 34.9019198,205.771428 36.2923964,202.488673 L85.1035796,87.251083 Z M91.8382999,91.8626866 L47.4293259,196.707167 L153.59835,153.622737 L196.68278,47.4537125 L91.8382999,91.8626866 Z" id="Rectangle" fill="#282C31" fill-rule="nonzero" transform="translate(121.999844, 122.024230) rotate(45.000000) translate(-121.999844, -122.024230) "></path>
+            <polygon id="Rectangle" stroke="#282C31" stroke-width="8" stroke-linejoin="round" points="6 147.053824 110 191.053824 110 319.053824 6 275.053824"></polygon>
+            <polygon id="Rectangle" stroke="#282C31" stroke-width="8" stroke-linejoin="round" transform="translate(186.000000, 233.053824) scale(-1, 1) translate(-186.000000, -233.053824) " points="134 147.053824 238 191.053824 238 319.053824 134 275.053824"></polygon>
+        </g>
+    </g>
+</svg>

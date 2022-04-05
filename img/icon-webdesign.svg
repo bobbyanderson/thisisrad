@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon-webdesign</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-webdesign" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="webdesign-icon" transform="translate(6.000000, 55.000000)">
+            <rect id="Rectangle" fill="#FF0057" x="12.0784314" y="13.0784314" width="211.372549" height="150.980392" rx="4"></rect>
+            <rect id="Rectangle" fill="#F7AC05" x="141.921569" y="127.823529" width="117.764706" height="81.5294118" rx="4"></rect>
+            <rect id="Rectangle" fill="#2A2CAC" x="259.686275" y="12.627451" width="48.3137255" height="85" rx="4"></rect>
+            <rect id="Rectangle" stroke="#282C31" stroke-width="8" x="0" y="1" width="211.372549" height="150.980392" rx="4"></rect>
+            <rect id="Rectangle" stroke="#282C31" stroke-width="8" x="129.843137" y="115.745098" width="117.764706" height="81.5294118" rx="4"></rect>
+            <rect id="Rectangle" stroke="#282C31" stroke-width="8" x="247.607843" y="0.549019608" width="48.3137255" height="85" rx="4"></rect>
+        </g>
+    </g>
+</svg>

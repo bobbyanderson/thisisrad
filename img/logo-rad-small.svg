@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="20px" viewBox="0 0 61 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements/Footer/Desktop" transform="translate(-1267.000000, -662.000000)" fill="#FFFFFF">
+            <g id="Footer">
+                <g id="Logo" transform="translate(1267.000000, 662.000000)">
+                    <path d="M50.5405405,20 C56.0548263,20 60.5405405,15.5206847 60.5405405,10.0142653 C60.5405405,4.50784593 56.0548263,0 50.5405405,0 L40.5405405,0 C40.5405405,20.4279601 40.5405405,-0.427960057 40.5405405,20 L50.5405405,20 Z" id="D"></path>
+                    <path d="M17.2972973,20 L40.5405405,20 L28.9189189,0 L17.2972973,20 Z" id="A"></path>
+                    <path d="M9.65139052,0 L0,0 C0,15.4350927 0,-2.13980029 0,20 L17.6654916,20 L14.7068808,14.4935806 C16.631414,13.0099857 17.8378378,10.7275321 17.8378378,8.13124108 C17.8378378,3.62339515 14.1611176,0 9.65139052,0 L9.65139052,0 Z" id="R"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
